@@ -99,7 +99,7 @@ Terraform、Datadog、Docker/docker-compose、k8s、RaspberryPi3/4
 
 ### 株式会社FOLIOでのシニアバックエンドエンジニア(正社員)
 - 既存システムの開発・改修とともにシニアエンジニアとして技術的に難易度の高い部分の調査・実装をメインで行う
-- (SBIラップ)[https://go.sbisec.co.jp/prd/swrap/swrap_report/post/4g1nnOJRlk88GQaPsQ2nMm.html]プロジェクトで技術的に不確実な部分を落とし込み、それらを他の人でも実装できる形に基盤部分を作成・展開
+- [SBIラップ](https://go.sbisec.co.jp/prd/swrap/swrap_report/post/4g1nnOJRlk88GQaPsQ2nMm.html)プロジェクトで技術的に不確実な部分を落とし込み、それらを他の人でも実装できる形に基盤部分を作成・展開
 - SBIラップのプロジェクトが完了したタイミングで退社、引き続き業務委託として関わる
 
 ### 株式会社JDSCでの自社プロダクト立ち上げ(業務委託)

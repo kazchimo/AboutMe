@@ -6,6 +6,7 @@
 - [Zenn](https://zenn.dev/kazchimo)
 - [Qiita](https://qiita.com/KtheS)
 - [slides](https://slides.com/kazukimoriyama)
+- [lapras](https://lapras.com/public/TXNOVMJ)
 
 
 ## 略歴
@@ -41,9 +42,6 @@ CPOとしてラズパイなどを使用したIoTシステム基盤・データ�
 - 0から組織を立ち上げるにあたってのエンジニアマネジメント
 - スクラム・アジャイルでの開発体制の構築
 - 自社だけじゃなく、業務委託としてもチーム立ち上げ・マネジメントの経験複数あり
- 
-## アウトプット
-https://lapras.com/public/TXNOVMJ
     
 ### エンジニアリングスキル
 #### プログラミング言語
